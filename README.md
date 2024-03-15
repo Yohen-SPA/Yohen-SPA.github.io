@@ -1,7 +1,9 @@
 # Yohen-SPA.github.io
 ## Teste
-![floating girl](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/d02e4f48-f0bb-46c0-9db9-35c41cde2ae3)
+### [digital](digital/index.md)
 
-`abc` -> letra monoespaçada
+### [traditional](traditionalindex.md)
 
-[digital](digital/index.md)
+![Yohen 1](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/7d539008-bfc4-421f-b5fb-0f6fe672f4ee)
+
+`abc` -> letra mono espaçada
