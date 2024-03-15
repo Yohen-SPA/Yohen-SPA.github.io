@@ -2,7 +2,7 @@
 ## Teste
 ### [digital](digital/index.md)
 
-### [traditional](traditionalindex.md)
+### [traditional](traditional/index.md)
 
 ![Yohen 1](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/7d539008-bfc4-421f-b5fb-0f6fe672f4ee)
 
