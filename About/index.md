@@ -6,9 +6,9 @@
 
 ### [Traditional](traditional/index.md)
 
-### [Contact](Contact/index.md)
-
 ### [Others](Others/index.md)
+
+### [Contact](Contact/index.md)
 
 ## ABOUT
 #### Yohen_SPA
