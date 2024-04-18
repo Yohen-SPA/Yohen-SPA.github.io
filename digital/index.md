@@ -1,5 +1,21 @@
-# Digital
-I started doing digital at 2023,so it still has a lot of volatility in terms of characteristic and style.
+# [Yohen-SPA](README.md)
+
+### [About](About/index.md)
+
+### [Digital](digital/index.md)
+
+### [Traditional](traditional/index.md)
+
+### [Others](Others/index.md)
+
+### [Contact](Contact/index.md)
+
+## Digital
+I started doing digital artwork in the end of 2023, so the styles have more variability than usual.
+However, that opens up to experimetation! Which is one of my passions. Even though it still changes up a lot, saturated colors are a very commom trait.
+
+Eu inicei meu traço digital no final de 2023, então os estilos têm mais variedade do que o usual
+Porém, isso abre as portas para experimentações! Uma das minhas paixões. Mesmo que varie muito, cores saturadas comumente ressurgem.
 
 ![pocoyo](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/e45dfdd7-53cf-4087-94ea-8db19a74c28e)
 ![cupid roblox skin](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/5b5294ff-0152-455f-8bf2-13809e8c01db)
