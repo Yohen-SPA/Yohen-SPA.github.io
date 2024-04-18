@@ -1,13 +1,17 @@
 # Yohen-SPA.github.io
-## Teste
-### [about](About/index.md)
+Welcome to my personal page! This is a more experimental site due to the fact I made it through coding, a different technique from what I'm used to.
 
-### [digital](digital/index.md)
+Bem vindxs a minha página pessoal! Isto é mais um site experimental devido ao fato que o fiz através de codificação, uma técnica diferente do que estou acostumada.
 
-### [traditional](traditional/index.md)
+### [About](About/index.md)
 
-### [contact](Contact/index.md)
+### [Digital](digital/index.md)
 
-![Yohen 1](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/7d539008-bfc4-421f-b5fb-0f6fe672f4ee)
+### [Traditional](traditional/index.md)
 
-`abc` -> letra mono espaçada
+### [Contact](Contact/index.md)
+
+### [Others](Others/index.md)
+
+![eepy time](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/0d785814-b81a-4551-88d3-4b0ce97cc958)
+![game night](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/a76cd7d4-b306-44fd-acdb-926126fbad85)
