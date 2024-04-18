@@ -9,9 +9,9 @@ Bem vindxs a minha página pessoal! Isto é mais um site experimental devido ao 
 
 ### [Traditional](traditional/index.md)
 
-### [Contact](Contact/index.md)
-
 ### [Others](Others/index.md)
+
+### [Contact](Contact/index.md)
 
 ![eepy time](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/0d785814-b81a-4551-88d3-4b0ce97cc958)
 ![game night](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/a76cd7d4-b306-44fd-acdb-926126fbad85)
