@@ -1,4 +1,4 @@
-# [Yohen-SPA.github.io](README.md)
+# [Yohen-SPA.github.io](Yohen-SPA.github.io/README.md)
 Welcome to my personal page! This is a more experimental site due to the fact I made it through coding, a different technique from what I'm used to.
 
 Bem vindxs a minha página pessoal! Isto é mais um site experimental devido ao fato que o fiz através de codificação, uma técnica diferente do que estou acostumada.
