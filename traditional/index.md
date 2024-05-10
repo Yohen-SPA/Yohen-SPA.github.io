@@ -1,14 +1,14 @@
-# [Yohen-SPA](README.md)
+# [Yohen-SPA](../README.md)
 
-### [About](About/index.md)
+### [About](../About/index.md)
 
-### [Digital](digital/index.md)
+### [Digital](../digital/index.md)
 
-### [Traditional](traditional/index.md)
+### Traditiona
 
 ### [Others](Others/index.md)
 
-### [Contact](Contact/index.md)
+### [Contact](../Contact/index.md)
 
 ## Traditional
 
