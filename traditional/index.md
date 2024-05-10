@@ -4,7 +4,7 @@
 
 ### [Digital](../digital/index.md)
 
-### Traditiona
+### Traditional
 
 ### [Others](Others/index.md)
 
