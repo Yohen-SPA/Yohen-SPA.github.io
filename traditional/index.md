@@ -6,7 +6,7 @@
 
 ### Traditional
 
-### [Others](Others/index.md)
+### [Others](../Others/index.md)
 
 ### [Contact](../Contact/index.md)
 
