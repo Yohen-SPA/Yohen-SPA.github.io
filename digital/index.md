@@ -1,14 +1,14 @@
-# [Yohen-SPA](README.md)
+# [Yohen-SPA](../README.md)
 
-### [About](About/index.md)
+### [About](../About/index.md)
 
-### [Digital](digital/index.md)
+### Digital
 
-### [Traditional](traditional/index.md)
+### [Traditional](../traditional/index.md)
 
-### [Others](Others/index.md)
+### [Others](../Others/index.md)
 
-### [Contact](Contact/index.md)
+### [Contact](../Contact/index.md)
 
 ## Digital
 I started doing digital artwork in the end of 2023, so the styles have more variability than usual.
