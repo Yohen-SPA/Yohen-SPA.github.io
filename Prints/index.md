@@ -2,7 +2,7 @@
 
 ### [About](../About/index.md)
 
-### [Digital](../Digital/index.md)
+### [Digital](../digital/index.md)
 
 ### [Traditional](../traditional/index.md)
 
