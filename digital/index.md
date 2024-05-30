@@ -9,6 +9,8 @@
 ### [Others](../Others/index.md)
 
 ### [Contact](../Contact/index.md)
+---
+## [[PRINTS](../Prints/index.md)]
 
 ## Digital
 I started doing digital artwork in the end of 2023, so the styles have more variability than usual.
