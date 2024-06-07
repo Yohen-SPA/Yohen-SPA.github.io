@@ -14,6 +14,6 @@
 - [Instagram](https://www.instagram.com/yohen_spa/) 
 - [Site](https://readymag.website/u158525862/4727133/)
 - E-mail: yohenspa@gmail.com
-- [PDF](https://drive.google.com/file/d/1Y8jFVpXb2OOqnRVI9JQMOaMHOmTJqmXr/view?usp=sharing)
+- [PDF](https://drive.google.com/file/d/1svqSu6FS-WbR9KEWfWN6ROTzDg3HjcU6/view?usp=sharing)
 
   ![teste  png transparante](https://github.com/Yohen-SPA/Yohen-SPA.github.io/assets/162649023/d6d39a65-fb1d-40fe-967b-17be68590d62)
